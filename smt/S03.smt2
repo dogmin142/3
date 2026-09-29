@@ -1,4 +1,4 @@
-(set-logic QF_LIA)
+(set-logic QF_NIA)
 (declare-const p Int)(declare-const s Int)(declare-const d Int)(declare-const e Int)
 (assert (>= p 2))(assert (< (+ (* (- p 1) s) d) e))
 (assert (not (<= (+ (* (- p 1) s) d) (- e 1))))
