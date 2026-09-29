@@ -1,5 +1,3 @@
-# SMT S3
+# SMT-S3 clean-room bootstrap
 
-Clean-room restart.
-
-This repository is being rebuilt from zero for SMT S3. No Dedekind v5.9, Lean-one, Smith, previous SMT, source chunks, claim ledger, or prior verification artifacts are inherited.
+Legacy verification artifacts are non-authoritative. Authoritative baseline is Smith v13.13, SHA-256 `c7a0fc2c7e27ff773ba184829de0138e3c619c39fa9532a1ba10a892359b7449`.
