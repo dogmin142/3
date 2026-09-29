@@ -1,1 +1,0 @@
-SMT-S3 one-shot clean-room execution is being installed from the locked Smith v13.13 source. This marker is superseded by the clean-tree commit that follows.

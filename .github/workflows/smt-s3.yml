@@ -1,0 +1,11 @@
+name: SMT-S3
+on: [push, workflow_dispatch]
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install independent solvers
+        run: sudo apt-get update && sudo apt-get install -y z3 cvc5
+      - name: Run exact cross-solver suite
+        run: python3 run_s3.py
