@@ -1,0 +1,1 @@
+SMT-S3 clean-room suite installed; CI pending.
