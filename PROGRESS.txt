@@ -1,1 +1,1 @@
-SMT-S3 clean-room suite installed. Awaiting GitHub Actions execution on main.
+SMT-S3 suite installed; CI pending.
